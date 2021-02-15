@@ -102,3 +102,5 @@ public class OmegaTestFuncActivity extends IphoneTitleBarActivityCompat {
     }
 
 }
+//Only GOD and I know how this work
+//Now only GOD knowsgit l
